@@ -7,6 +7,7 @@
         xmlns:local="clr-namespace:calendar"
         mc:Ignorable="d"
 <<<<<<< HEAD
+<<<<<<< HEAD
         Title="MainWindow" Height="500" Width="450">
     <Grid>
 =======
@@ -21,6 +22,10 @@
     <Grid>
         
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+        Title="MainWindow" Height="500" Width="450">
+    <Grid>
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="10*"/>
@@ -28,11 +33,15 @@
         <Grid Grid.Row="0">
             <Grid.ColumnDefinitions>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
                 <ColumnDefinition/>
                 <ColumnDefinition Width="5*"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <Button x:Name="fist_button" Content="-" Grid.Column="0"  FontSize="35">
+<<<<<<< HEAD
 =======
                 <ColumnDefinition Width="11*"/>
                 <ColumnDefinition Width="54*"/>
@@ -41,17 +50,23 @@
             </Grid.ColumnDefinitions>
             <Button Style="{DynamicResource ButtonStyle1}" x:Name="fist_button" Content="-" Grid.Column="0"  FontSize="35" Grid.ColumnSpan="2">
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
                 <b:Interaction.Triggers>
                     <b:EventTrigger EventName="Click">
                         <b:CallMethodAction
                             TargetObject="{Binding}"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
                             MethodName="button2"/>  
                     </b:EventTrigger>
                 </b:Interaction.Triggers>
             </Button>
             <TextBlock x:Name="date_of_textblock" Grid.Column="1" TextAlignment="Center" Text="{Binding MonthYearText}"/>
             <Button x:Name="second_button" Content="+" Grid.Column="2" FontSize="35">
+<<<<<<< HEAD
 =======
                             MethodName="button2"/>
                     </b:EventTrigger>
@@ -80,6 +95,8 @@
             <TextBlock x:Name="date_of_textblock" Grid.Column="1" TextAlignment="Center" Text="{Binding MonthYearText}" Grid.ColumnSpan="3" Margin="53,0,64,0"/>
             <Button Style="{DynamicResource ButtonStyle1}" x:Name="second_button" Content="+" Grid.Column="3" FontSize="35">
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
                 <b:Interaction.Triggers>
                     <b:EventTrigger EventName="Click">
                         <b:CallMethodAction
@@ -88,10 +105,14 @@
                     </b:EventTrigger>
                 </b:Interaction.Triggers>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
             </Button>
         </Grid>
         <Frame x:Name="frame_main" Grid.Row="1" NavigationUIVisibility="Hidden" HorizontalAlignment="Center"/>
     </Grid> 
+<<<<<<< HEAD
 =======
                 <Button.Triggers>
                     <EventTrigger RoutedEvent="Button.MouseEnter">
@@ -118,4 +139,6 @@
         <Frame x:Name="frame_main" Grid.Row="1" NavigationUIVisibility="Hidden" HorizontalAlignment="Center"/>
     </Grid>
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
 </Window>

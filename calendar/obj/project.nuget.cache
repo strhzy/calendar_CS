@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vwoWH1WPgmZ6V0+Uk5khnbz++wq5edsyCQtmimMMdwvxMcz470eY23QCfOEKbZG4+l8AcmsZTx8sEtKpjTwzFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\calendar.csproj",
@@ -15,4 +16,14 @@
       "message": "Ошибка чтения файла кэша C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+  "dgSpecHash": "G5/3HC6oJWAEb9zMnAaaP8TF3/AFD8o9aEqa1+pP94mVtBZIWDLJHt8mAqX03SOms5J80Oz384NwxgSr+QqW6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\illid\\source\\repos\\calendar_CS\\calendar\\calendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\illid\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\illid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
 }

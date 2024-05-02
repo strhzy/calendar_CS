@@ -31,11 +31,14 @@
       <SubType>Designer</SubType>
     </Page>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <Page Update="View\Resources\Dictionary1.xaml">
       <SubType>Designer</SubType>
     </Page>
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
     <Page Update="View\Sport.xaml">
       <SubType>Designer</SubType>
     </Page>

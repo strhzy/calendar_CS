@@ -53,6 +53,7 @@ C:\Users\illid\source\repos\calendar_CS\calendar\obj\Debug\net8.0-windows\View\S
 C:\Users\illid\source\repos\calendar_CS\calendar\obj\Debug\net8.0-windows\View\Sports.baml
 C:\Users\illid\source\repos\calendar_CS\calendar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 C:\Users\Alex\sharaga\prog\Pract6WPF\calendar\bin\Debug\net8.0-windows\calendar.exe
 C:\Users\Alex\sharaga\prog\Pract6WPF\calendar\bin\Debug\net8.0-windows\calendar.deps.json
@@ -91,3 +92,5 @@ C:\Users\Alex\sharaga\prog\Pract6WPF\calendar\obj\Debug\net8.0-windows\calendar.
 C:\Users\Alex\sharaga\prog\Pract6WPF\calendar\obj\Debug\net8.0-windows\ref\calendar.dll
 C:\Users\Alex\sharaga\prog\Pract6WPF\calendar\obj\Debug\net8.0-windows\View\Resources\Dictionary1.baml
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea

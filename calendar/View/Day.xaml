@@ -7,6 +7,7 @@
              xmlns:local="clr-namespace:calendar.View"
              mc:Ignorable="d" 
 <<<<<<< HEAD
+<<<<<<< HEAD
              d:Height="80" d:Width="80">
     <Grid>
 =======
@@ -17,6 +18,10 @@
     </UserControl.Resources>
     <Grid >
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+             d:Height="80" d:Width="80">
+    <Grid>
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
         <Grid Margin="6">
             <Grid.RowDefinitions>
                 <RowDefinition/>
@@ -25,16 +30,21 @@
             <TextBlock x:Name="DayNumber" Grid.Row="0" TextAlignment="Center"/>
             <Image x:Name="ImageOfDay" Grid.Row="1" MaxWidth="70px" MaxHeight="70px"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <Button x:Name="ButtonDay" Grid.RowSpan="2" Background="Transparent" Content="{Binding day}" Click="ButtonDay_Click">
 =======
             <Button Style="{DynamicResource ButtonStyle1}" x:Name="ButtonDay" Grid.RowSpan="2" Background="Transparent" Content="{Binding day}" Click="ButtonDay_Click" Height="80" Width="80">
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+            <Button x:Name="ButtonDay" Grid.RowSpan="2" Background="Transparent" Content="{Binding day}" Click="ButtonDay_Click">
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
                 <Button.ContextMenu>
                     <ContextMenu>
                         <MenuItem Header="Посмотреть день" Click="ContextMenu1_Click"/>
                         <MenuItem Header="Отчистить день" Click="ContextMenu2_Click"/>
                     </ContextMenu>
                 </Button.ContextMenu>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
                 <Button.Triggers>
@@ -60,6 +70,8 @@
                     </EventTrigger>
                 </Button.Triggers>
 >>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
+=======
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
             </Button>
         </Grid>
     </Grid>

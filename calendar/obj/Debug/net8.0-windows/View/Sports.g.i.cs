@@ -55,13 +55,21 @@ namespace calendar.View {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
+=======
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.1.0")]
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
             System.Uri resourceLocater = new System.Uri("/calendar;V1.0.0.0;component/view/sports.xaml", System.UriKind.Relative);
+=======
+            System.Uri resourceLocater = new System.Uri("/calendar;component/view/sports.xaml", System.UriKind.Relative);
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
             
             #line 1 "..\..\..\..\View\Sports.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -71,7 +79,11 @@ namespace calendar.View {
         }
         
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+<<<<<<< HEAD
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
+=======
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.1.0")]
+>>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
