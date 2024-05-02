@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\viewmodel\\helpers\\serdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\viewmodel\\helpers\\serdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\viewmodel\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\viewmodel\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\sports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\sports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\sport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\sport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\days.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\days.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\day.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\day.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\day.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\day.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\model\\sportselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\model\\sportselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\model\\daychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\model\\daychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\sport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\sport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\sports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\sports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|c:\\users\\alex\\sharaga\\prog\\pract6wpf\\calendar\\view\\days.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C16FDE89-0C22-412E-9119-22CF6CA85E4C}|calendar\\calendar.csproj|solutionrelative:calendar\\view\\days.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerDeser.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\SerDeser.cs",
+              "RelativeDocumentMoniker": "calendar\\ViewModel\\Helpers\\SerDeser.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\SerDeser.cs",
+              "RelativeToolTip": "calendar\\ViewModel\\Helpers\\SerDeser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sports.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sports.xaml.cs",
+              "RelativeDocumentMoniker": "calendar\\View\\Sports.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sports.xaml.cs",
+              "RelativeToolTip": "calendar\\View\\Sports.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calendar\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "calendar\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BindingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeDocumentMoniker": "calendar\\ViewModel\\Helpers\\BindingHelper.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeToolTip": "calendar\\ViewModel\\Helpers\\BindingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "calendar\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "calendar\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sport.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sport.xaml.cs",
+              "RelativeDocumentMoniker": "calendar\\View\\Sport.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sport.xaml.cs",
+              "RelativeToolTip": "calendar\\View\\Sport.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Days.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Days.xaml.cs",
+              "RelativeDocumentMoniker": "calendar\\View\\Days.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Days.xaml.cs",
+              "RelativeToolTip": "calendar\\View\\Days.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Main.cs",
+              "RelativeDocumentMoniker": "calendar\\ViewModel\\Main.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\ViewModel\\Main.cs",
+              "RelativeToolTip": "calendar\\ViewModel\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Day.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Day.xaml.cs",
+              "RelativeDocumentMoniker": "calendar\\View\\Day.xaml.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Day.xaml.cs",
+              "RelativeToolTip": "calendar\\View\\Day.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DayChange.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\Model\\DayChange.cs",
+              "RelativeDocumentMoniker": "calendar\\Model\\DayChange.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\Model\\DayChange.cs",
+              "RelativeToolTip": "calendar\\Model\\DayChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "calendar\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\MainWindow.xaml",
+              "RelativeToolTip": "calendar\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T17:20:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Day.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Day.xaml",
+              "RelativeDocumentMoniker": "calendar\\View\\Day.xaml",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Day.xaml",
+              "RelativeToolTip": "calendar\\View\\Day.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T17:20:29.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SportSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\Model\\SportSelect.cs",
+              "RelativeDocumentMoniker": "calendar\\Model\\SportSelect.cs",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\Model\\SportSelect.cs",
+              "RelativeToolTip": "calendar\\Model\\SportSelect.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:20:29.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sport.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sport.xaml",
+              "RelativeDocumentMoniker": "calendar\\View\\Sport.xaml",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sport.xaml",
+              "RelativeToolTip": "calendar\\View\\Sport.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T17:20:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Days.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Days.xaml",
+              "RelativeDocumentMoniker": "calendar\\View\\Days.xaml",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Days.xaml",
+              "RelativeToolTip": "calendar\\View\\Days.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T17:20:29.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sports.xaml",
+              "DocumentMoniker": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sports.xaml",
+              "RelativeDocumentMoniker": "calendar\\View\\Sports.xaml",
+              "ToolTip": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\View\\Sports.xaml",
+              "RelativeToolTip": "calendar\\View\\Sports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T17:20:29.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
