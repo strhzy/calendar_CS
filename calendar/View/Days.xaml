@@ -6,17 +6,7 @@
       xmlns:local="clr-namespace:calendar.View"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-<<<<<<< HEAD
-<<<<<<< HEAD
       Title="Days">
-=======
-      Title="Days"
-      Background="SeaGreen">
->>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
-=======
-      Title="Days">
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
-
     <Grid>
         <ScrollViewer>
             <WrapPanel x:Name="days_wrappanel"/>

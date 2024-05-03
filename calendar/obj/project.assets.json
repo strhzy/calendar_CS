@@ -94,34 +94,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Alex\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\illid\\.nuget\\packages\\": {}
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\calendar.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\sharaga\\prog\\calendar_CS\\calendar\\calendar.csproj",
       "projectName": "calendar",
-      "projectPath": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\calendar.csproj",
+      "projectPath": "C:\\Users\\Alex\\sharaga\\prog\\calendar_CS\\calendar\\calendar.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\sharaga\\prog\\calendar_CS\\calendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\illid\\source\\repos\\calendar_CS\\calendar\\calendar.csproj",
-      "projectName": "calendar",
-      "projectPath": "C:\\Users\\illid\\source\\repos\\calendar_CS\\calendar\\calendar.csproj",
-      "packagesPath": "C:\\Users\\illid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\illid\\source\\repos\\calendar_CS\\calendar\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\illid\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -141,14 +126,11 @@
         "warnAsError": [
           "NU1605"
         ]
-<<<<<<< HEAD
       },
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-=======
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
       }
     },
     "frameworks": {
@@ -183,23 +165,8 @@
             "privateAssets": "none"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\Alex\\sharaga\\prog\\Pract6WPF\\calendar\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
-      }
-    }
   }
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
 }

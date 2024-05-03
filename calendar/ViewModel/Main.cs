@@ -17,14 +17,8 @@ using System.Security.Cryptography.X509Certificates;
 using calendar.Model;
 using Newtonsoft.Json;
 using System.IO;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 using System.Windows.Media.Animation;
 using System.Windows.Input;
->>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
-=======
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
 
 namespace calendar.ViewModel
 {
@@ -146,14 +140,6 @@ namespace calendar.ViewModel
             MessageBox.Show(date.Year.ToString() + " " + date.Month.ToString() + " " + actual_day.ToString());
             List<DayChange> x = SerDeser.Deserialization<DayChange>().Where(b => (b.Date.Month != date.Date.Month) || (b.Date.Year != date.Date.Year) || (Convert.ToInt64(b.Date.Day) != actual_day)).ToList();
             SerDeser.Serialization(x);
-<<<<<<< HEAD
-<<<<<<< HEAD
-            MessageBox.Show(x.Count().ToString());
-=======
->>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
-=======
-            MessageBox.Show(x.Count().ToString());
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
             List<SportSelect> sport_changes = new List<SportSelect>();
             foreach (var i in sports)
             {

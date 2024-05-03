@@ -4,14 +4,6 @@
              xmlns:local="clr-namespace:calendar"
              StartupUri="View/MainWindow.xaml">
     <Application.Resources>
-<<<<<<< HEAD
-<<<<<<< HEAD
-         
-=======
         <ResourceDictionary Source="View/Resources/Dictionary1.xaml"/>
->>>>>>> f9003cb (Finita, добавлены анимации, цвета элементов)
-=======
-         
->>>>>>> 033cb0a808f0e42aaf8516bea107bde78cd968ea
     </Application.Resources>
 </Application>
